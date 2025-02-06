@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-image: url("https://downloadhdwallpapers.in/wp-content/uploads/2018/01/3D-Game-Square-Background-Image-1440x900.jpg");
+}
+
+.start-container, .quiz-container, .result-container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 600px;
+  animation: fadeIn 0.5s;
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.90);
+  background: linear-gradient(135deg, rgba(255, 255, 205, 0.1), rgba(255, 255, 255, 0));
+
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  background-color:black;
+  color:white;
+  font-weight: 600;
+  box-shadow:  rgba(0, 0, 0, 0.50);
+}
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.347);
+}
+
+.options button {
+  display: block;
+  width: 100%;
+  margin: 5px 0;
+}
+
+.quiz-container p{
+  font-weight:600;
+}
+.quiz-container h2{
+ font-size: 40px;
+}
+

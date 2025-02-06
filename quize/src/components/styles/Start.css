@@ -1,0 +1,39 @@
+/* src/styles/Start.css */
+.start-container {
+    backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.90);
+  background: linear-gradient(135deg, rgba(255, 255, 205, 0.1), rgba(255, 255, 255, 0));
+    padding: 40px;
+    text-align: center;
+    max-width: 600px;
+    margin: 100px auto;
+}
+
+.start-container h1 {
+    color: #333;
+    font-size: 39px;
+    margin-bottom: 20px;
+   
+}
+.start-container p{
+    font-weight: 700;
+    color:black;
+    text-decoration: underline;
+}
+
+.start-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.start-container button:hover {
+    background-color: red;
+}
