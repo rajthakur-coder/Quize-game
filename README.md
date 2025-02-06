@@ -24,15 +24,15 @@ f) User-Friendly Interface: Simple and engaging design.
 
 1) Backend (Node.js + Express)
 
-cd backend
-npm install
-npm start
+a) cd backend
+b) npm install
+c) npm start
 
 2) Frontend (React)
 
-cd frontend
-npm install
-npm start
+a) cd frontend
+b) npm install
+c) npm start
 
 3) Usage
 
@@ -47,7 +47,12 @@ c) View your score at the end.
 The app fetches quiz data from an external API. Make sure the API is accessible before running the project.
 
 
+
+
+
 #Images in ui/ux
+
+
 
 
 ![Screenshot 2025-02-06 190903](https://github.com/user-attachments/assets/a0110fe2-d056-47e7-aa75-c92394523298)
@@ -72,7 +77,12 @@ The app fetches quiz data from an external API. Make sure the API is accessible 
 ![Screenshot 2025-02-06 190647](https://github.com/user-attachments/assets/f87e3f0a-2e25-4a98-be11-1e251fdf8b1c)
 
 
+
+
+
 #Video in quize game
+
+
 
 
 https://github.com/user-attachments/assets/4143e3b7-492a-4b72-829f-de9abe1e43f0
